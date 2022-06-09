@@ -1,0 +1,13 @@
+table{
+    border: 1px solid;
+    border-spacing: 5px;
+}
+
+td{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid;
+}
+#color_widget{
+    width: 19%;
+}
